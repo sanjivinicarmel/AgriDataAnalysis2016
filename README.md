@@ -1,20 +1,27 @@
-This project analyzes Indian district and holding size institutional farm credit distribution based on 2016 government data. 
-It applies machine learning algorithms (Random Forest, Linear Regression) to identify patterns, predict credit need, and identify which districts and farmer groups are not served.
+This project analyzes the distribution of institutional farm credit across Indian districts and holding sizes using 2016 government data. Leveraging machine learning algorithms (Random Forest, Linear Regression), it uncovers patterns, forecasts credit demand, and highlights underserved districts and farmer segments.
 
-Key Highlights:
-Dataset: Over 3,200 records from government surveys, divided by state, district, holding size, loan source, and loan purpose.
-Target: Estimated number of functioning holdings utilizing institutional credit.
-ML Techniques: Regression models utilized for demand forecasting, credit adoption model, and seasonal loan flow examination.
+🔍 Key Highlights
+Dataset: 3,200+ records categorized by state, district, holding size, loan source, and purpose.
 
-Insights:
-90% of the credit absorbed by small/marginal farmers.
-Short-term loans are more dominant due to input requirements during the season.
-Medium and large farms are under-leveraged – lenders' growth potential.
+Target Variable: Number of operational holdings availing institutional credit.
 
-Geospatial & Seasonal Trends:
-Uttar Pradesh has the highest credit accessibility.
-Q2 & Q3 are peak credit demand seasons that overlap with sowing periods.
+ML Techniques: Regression models for credit demand forecasting, seasonal flow analysis, and uptake modeling.
 
-Applications in Business:
-Customized credit product development
-Geographically targeted approach by agri-fintechs and financial institutions.
+📈 Key Insights
+90% of credit accessed by small/marginal farmers.
+
+Short-term loans dominate due to seasonal input needs.
+
+Medium & large farms are under-leveraged → opportunity for lenders.
+
+🗺 Geospatial & Seasonal Trends
+Uttar Pradesh leads in credit access.
+
+Q2 & Q3 (sowing season) are peak periods for credit demand.
+
+💼 Business Applications
+Design customized loan products.
+
+Enable region-specific strategies for banks and agri-fintechs.
+
+
