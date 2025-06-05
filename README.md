@@ -16,5 +16,5 @@ Uttar Pradesh has the highest credit accessibility.
 Q2 & Q3 are peak credit demand seasons that overlap with sowing periods.
 
 Applications in Business:
-Customized credit product development.
+Customized credit product development
 Geographically targeted approach by agri-fintechs and financial institutions.
